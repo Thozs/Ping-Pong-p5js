@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.AssemblyInfo.cs
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\bin\Debug\net8.0\Aula01C#Fábrica.exe
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\bin\Debug\net8.0\Aula01C#Fábrica.deps.json
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\bin\Debug\net8.0\Aula01C#Fábrica.runtimeconfig.json
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\bin\Debug\net8.0\Aula01C#Fábrica.dll
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\bin\Debug\net8.0\Aula01C#Fábrica.pdb
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.dll
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\refint\Aula01C#Fábrica.dll
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.pdb
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\Aula01C#Fábrica.genruntimeconfig.cache
+C:\Users\aluno\Documents\Thomáz\Aula01C#Fábrica\Aula01C#Fábrica\obj\Debug\net8.0\ref\Aula01C#Fábrica.dll
